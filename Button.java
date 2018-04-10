@@ -1,7 +1,7 @@
 
 public class Button {
-	protected int halfWidth; //= 30;
-	protected int halfHeight; //= 60;
+	protected int halfWidth; 
+	protected int halfHeight; 
 	
 	protected int xCenter;
 	protected int yCenter;
