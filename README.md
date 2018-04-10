@@ -1,6 +1,6 @@
 # VendingMachine
 
-The AR Vending Machine represents a Vending Machine game that was created by me, Aaron Hernandez, and Tz-Ruei, Liu. 
+The AR Vending Machine represents a Vending Machine game that was created by Aaron Hernandez and Tz-Ruei, Liu. 
 
 RULES:
 ------------------------------------------------------------------------------------------------------------------------------------------
