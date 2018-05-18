@@ -35,7 +35,7 @@ public class FoodButton extends Button {
 	}
 
 	public void mouseDown() {
-		if (isMouseOver() && VendingMachine.totalMoney > price) {
+		if (isMouseOver() && VendingMachine.totalMoney >= price) {
 			VendingMachine.totalMoney -= price;
 			if (VendingMachine.totalMoney < 0) {
 				VendingMachine.totalMoney = 0;
